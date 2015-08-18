@@ -1,0 +1,92 @@
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!-- Footer -->
+<div class="Footer" id="Footer" role="contentinfo">
+  <div class="container">
+
+    <h2 class="visuallyhidden">More Information about the U.S. Bureau of Reclamation</h2>
+
+    <!-- Social Links -->
+    <div class="Footer-social">
+      <h2>Stay in Touch</h2>
+      <ul>
+        <li>
+          <a href="http://www.facebook.com/bureau.of.reclamation" target="new" class="critical-icon">
+            <span class="icon-facebook" aria-hidden="true"></span>
+            <span class="fallback">Facebook</span>
+          </a>
+        </li>
+        <li>
+          <a href="http://twitter.com/usbr" class="critical-icon" target="new">
+            <span class="icon-twitter" aria-hidden="true"></span>
+            <span class="fallback">Twitter</span>
+          </a>
+        </li>
+        <li>
+          <a href="http://www.youtube.com/user/reclamation" class="critical-icon" target="new">
+            <span class="icon-youtube" aria-hidden="true"></span>
+            <span class="fallback">YouTube</span>
+          </a>
+        </li>
+        <li>
+          <a href="http://www.flickr.com/photos/usbr/" class="critical-icon" target="new">
+            <span class="icon-flickr" aria-hidden="true"></span>
+            <span class="fallback">Flickr</span>
+          </a>
+        </li>
+        <li>
+          <a href="http://usbr.tumblr.com/" class="critical-icon" target="new">
+            <span class="icon-tumblr" aria-hidden="true"></span>
+            <span class="fallback">Tumblr</span>
+          </a>
+        </li>
+        <li>
+          <a href="http://www.pinterest.com/usbrgov/" class="critical-icon" target="new">
+            <span class="icon-pinterest" aria-hidden="true"></span>
+            <span class="fallback">Pinterest</span>
+          </a>
+        </li>
+        <li>
+          <a href="http://instagram.com/bureau_of_reclamation" class="critical-icon" target="new">
+            <span class="icon-instagram" aria-hidden="true"></span>
+            <span class="fallback">Instagram</span>
+          </a>
+        </li>
+        <li>
+          <a href="http://www.usbr.gov/newsroom/rssxml/rssfeeds.html" class="critical-icon" target="new">
+            <span class="icon-rss" aria-hidden="true"></span>
+            <span class="fallback">RSS</span>
+          </a>
+        </li>
+      </ul>
+    </div>
+
+    <!-- Site Links -->
+    <div class="Footer-links">
+      <ul>
+        <li><a href="http://www.usbr.gov/main/comments.cfm">Contact Us</a></li>
+        <li><a href="http://www.usbr.gov/main/index/">Site Index</a></li>
+      </ul>
+      <ul>
+        <li><a href="http://www.usbr.gov/main/access.html">Accessibility</a></li>
+        <li><a href="http://www.usbr.gov/main/disclaimer.html">Disclaimer</a></li>
+        <li><a href="http://www.doi.gov/" target="new"><abbr title="Department of the Interior">DOI</abbr></a></li>
+       
+        <li><a href="http://www.usbr.gov/foia/">FOIA</a></li>
+        <li><a href="http://www.doi.gov/pmb/eeo/no-fear-act.cfm">No Fear Act</a></li>
+        <li><a href="http://www.usbr.gov/main/notices.html">Notices</a></li>
+         <li><a href="http://www.usbr.gov/main/privacy.html">Privacy Policy</a></li>
+        <li><a href="http://www.usbr.gov/main/qoi/">Quality of Information</a></li>
+        <li><a href="http://www.recreation.gov/" target="new">Recreation.gov</a></li>
+        <li><a href="http://www.usa.gov/" target="new">USA.gov</a></li>
+       
+      </ul>
+    </div>
+    
+
+    <!-- Logo -->
+    <a class="Footer-logo" href="http://www.usbr.gov"><img src="http://www.usbr.gov/img/seal-white.png" alt="U.S. Department of the Interior - Bureau of Reclamation"></a>
+
+  </div>
+</div>
+
+ 

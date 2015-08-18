@@ -1,0 +1,289 @@
+/*
+PN Region Stylesheet
+*/
+/*video gallery*/
+
+.wrapper{
+	width: 99%;
+	margin: 20 px auto 40px auto;
+}
+
+ul.gallery{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+
+ul.gallery li{
+    vertical-align: top;
+    display:inline-block;
+    margin: 0 10px 10px 0;
+    zoom: 1;
+    *display: inline;
+}
+
+ul.gallery img{
+	display: block;
+}
+
+ul.gallery span{ 
+    display: inline-block;
+    text-align: left;
+    width: 160px;
+	float: left;
+
+		
+}
+
+.title {
+    display: block;
+
+}
+
+
+/*image padding*/
+
+img {
+	max-width: 100%!important
+	margin: 0 15px 15px 0;
+	padding: 0 15px 15px 0;
+}
+
+/*transcript centering*/
+
+.centered {
+	text-align:center;
+}
+
+/*actual base text coding
+body {
+	line-height: 1.5;
+	font-family: Arial, sans-serif;
+	font-size: 15px;
+	font-size: 1.5rem;
+}
+*/
+
+/*link color code override*/
+
+Main-well a, .Main-well a:link, .Main-well a:visited {
+       color: #345abc;
+       text-decoration: none
+	   font-size: 12px;
+}
+.Main-well a:active, .Main-well a:focus, .Main-well a:hover {
+	color: #345abc;
+    text-decoration: underline
+	font-size: 12px;
+	text-align: left;
+}
+	
+	
+.gcdH3{
+	font-size: 16px;
+	font-weight: bold;
+	font-style: normal;
+	font-family: Arial, Helvetica, sans-serif;
+	line-height: normal;
+	line-variant: normal;
+	color: #204A9F;
+}
+
+/*grey color on sidebar*/
+.LeftNav-list>li.-active {
+	background:#F0EFEF;
+}
+
+
+/*horizontal nav list*/
+
+ul.nav {
+	margin-left: 0;
+	padding: 0;
+}
+
+ul.nav li {
+	display:inline;
+	margin-left: 0;
+	padding-left: 0;
+	padding: 0px 40px 4px 10px;
+	align: left;
+}
+
+/*table*/
+td {
+	font-size: 13px;
+}
+
+table {
+	padding-top: 1;
+	margin-top: 1;
+}
+
+/*- features content and thumbnails*/
+.features {
+	float: left;
+	verticle-align: text-top;
+	text-align:left
+}
+
+/*gcfooter styles*/
+
+.gcfooter {
+	float: left; 
+	margin-top: 5px; 
+	display: inline;
+
+}
+
+.gcfooter ul {
+	float:left; 
+	padding:0; 
+	margin:0;
+}
+ul.gcfooter li {
+	float:left; 
+	list-style:none;
+	margin-left:5px;
+}
+
+.gcfooter span{ 
+	float: left;
+	line-height: 245%;
+	vertical-align: middle;
+
+}
+
+
+
+/*Last Updated Date Fix */
+.lastUp {
+	font-style:italic;
+	font-size: 80%;
+}
+@media screen and (min-width:41.25em) {
+.lastUp {
+	position: absolute;
+	bottom: -200px;
+	left: 200px;
+}
+}
+
+/*Columns for main gcd page*/
+.twoColumn {
+       float: left;
+       margin-left: 1.5%;
+       width: 48%;
+}
+
+@media screen and (max-width:37em) {
+.twoColumn {
+       float:none;
+       margin-left: 0;
+       width: 98%;
+}
+}
+
+.threeColumn {
+       float: left;
+       margin-left: 1%;
+       width: 32%;
+}
+@media screen and (max-width:37em) {
+.threeColumn {
+       float:none;
+       width: 98%;
+}
+}
+
+/* main page column borders*/
+	
+.h7 {
+	border-bottom: 1px solid #ccc;
+	border-top: 2px solid #1c377a;
+	color: #7e7e7e;
+	font-size: 20px;
+	line-height: 24px;
+	margin-bottom: 18px;
+	padding: 10px 0 8px 0;
+	position: relative;
+	width: 80%;
+}
+
+.pdftext {
+
+	font-size: .85em;
+}
+
+/*media list item image wrap*/
+.MediaList {
+	list-style: none;
+	margin: 1em 0;
+	padding: 0
+}
+.MediaList li {
+	border-top: 1px solid #c2c2c2;
+	list-style: none;
+	margin: 1em 0;
+	padding: 1em 0 0
+}
+.MediaList li:first-child {
+	border-top: none
+}
+.MediaList li:after {
+	content: "";
+	display: table;
+	clear: both
+}
+.MediaList-item-category {
+	color: #777;
+	display: block;
+	font-size: 14px;
+	font-size: 1.4rem;
+	font-weight: 700;
+	margin: 0 0 .25em;
+	text-transform: uppercase
+}
+.MediaList-item-title {
+	color: #333;
+	display: block;
+	font-size: 20px;
+	font-size: 2rem;
+	line-height: 1.2;
+	margin: 0 0 .25em
+}
+.MediaList-item-image {
+	margin: .5em 0;
+	vertical-align: text-top;
+}
+@media screen and (min-width:20em) {
+.MediaList-item-image {
+	float: left;
+	margin: .3em 1em 1em 0;
+
+}
+.MediaList-item-featureImage {
+	margin: 0 0 1em
+}
+.MediaList-item-content {
+	overflow: hidden;
+	margin: 0;
+}
+
+/*SRAO Projects dams and powerplants tables*/
+.table-legacy2 {
+	border: px solid #CCCCCC;
+	border-color: #CCCCCC;
+	border-collapse:collapse;
+}
+
+.table-legacy2 td, .table-legacy th {
+	border: 2px solid #CCCCCC;
+}
+.table-legacy2 td[class*=Header] {
+	font-weight: 800
+}
+.table-legacy2 tr:nth-child(2n+2) {
+	background-color: transparent
+}

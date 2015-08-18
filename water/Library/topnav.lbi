@@ -1,0 +1,113 @@
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><!-- Header -->
+<div class="Header" id="top" role="banner">
+  <div class="Header-wrap container">
+
+    <!-- Logo -->
+    <a class="Header-logo" href="http://www.usbr.gov" title="Reclamation Home"><img src="http://www.usbr.gov/img/logo-white.png" alt="U.S. Bureau of Reclamation: Managing Water in the West"></a> 
+
+     <div class="Header-social">
+      <span class="Header-social-label">Share</span>
+      <ul>
+        <li>
+          <a class="critical-icon" title="Share on Facebook" target="_blank" href="http://www.facebook.com/sharer.php?u={url}">
+            <span class="icon-facebook" aria-hidden="true"></span>
+            <span class="fallback">Facebook</span>
+          </a>
+        </li>
+        <li>
+          <a class="critical-icon" title="Share on Twitter" target="_blank" href="https://twitter.com/share?url={url}&text={title}&via={via}&hashtags={hashtags}">
+            <span class="icon-twitter" aria-hidden="true"></span>
+            <span class="fallback">Twitter</span>
+          </a>
+        </li>
+        <li>
+          <a class="critical-icon" title="Share on Tumblr" target="_blank" href="http://www.tumblr.com/share/link?url={url}&name={title}&description={desc}">
+            <span class="icon-tumblr" aria-hidden="true"></span>
+            <span class="fallback">Tumblr</span>
+          </a>
+        </li>
+        <li>
+          <a class="critical-icon" title="Share on Pinterest" target="_blank" href="https://pinterest.com/pin/create/bookmarklet/?media={img}&url={url}&is_video={is_video}&description={title}">
+            <span class="icon-pinterest" aria-hidden="true"></span>
+            <span class="fallback">Pinterest</span>
+          </a>
+        </li>
+      </ul>
+    </div><!-- end Header-social -->
+
+  </div><!-- end container -->
+</div><!-- end Header -->
+
+<!-- Nav Menu -->
+<div class="Nav" id="Nav">
+  <div class="Nav-wrap">
+    <!-- Navigation -->
+    <ol class="Nav-list resetList" role="navigation" aria-label="Primary Navigation">
+      <li class="Nav-item">
+        <a class="Nav-item-link" href="#">Water &amp; Power</a>
+        <ol class="Nav-sublist resetList" aria-label="submenu">
+         <li class="Nav-sublist-item"><a href="http://www.usbr.gov/projects/dams.jsp" class="Nav-sublist-link">Dams</a></li>
+         <li class="Nav-sublist-item"><a href="http://www.usbr.gov/projects/powerplants.jsp" class="Nav-sublist-link">Powerplants</a></li>
+         <li class="Nav-sublist-item"><a href="http://www.usbr.gov/projects/projects.jsp" class="Nav-sublist-link">Projects</a></li>
+         <li class="Nav-sublist-item"><a href="http://www.usbr.gov/main/agrihydro.html" class="Nav-sublist-link">Agrimet/Hydromet</a></li>
+         <li class="Nav-sublist-item"><a href="http://www.usbr.gov/main/water/" class="Nav-sublist-link">Water Operations</a></li>
+         </ol>
+      </li>
+      <li class="Nav-item">
+        <a class="Nav-item-link" href="#">Resources &amp; Research</a>
+        <ol class="Nav-sublist resetList" aria-label="submenu">
+           <li class="Nav-sublist-item"><a href="http://www.usbr.gov/main/programs/" class="Nav-sublist-link">Programs</a></li>
+         <li class="Nav-sublist-item"><a href="http://www.usbr.gov/tsc/" class="Nav-sublist-link">Technical Services Center</a></li>
+         <li class="Nav-sublist-item"><a href="http://www.usbr.gov/research/" class="Nav-sublist-link">Research &amp; Development</a></li>
+         <li class="Nav-sublist-item"><a href="http://www.usbr.gov/recman/" class="Nav-sublist-link">Reclamation Manual</a></li>
+         <li class="Nav-sublist-item"><a href="http://www.usbr.gov/environmental/" class="Nav-sublist-link">Environmental Resources/Reports</a></li>
+         <li class="Nav-sublist-item"><a href="http://www.usbr.gov/library/" class="Nav-sublist-link">Library</a></li>
+        </ol>
+      </li>
+      <li class="Nav-item">
+        <a class="Nav-item-link" href="#">About Us</a>
+        <ol class="Nav-sublist resetList" aria-label="submenu">
+          <li class="Nav-sublist-item"><a href="http://www.usbr.gov/main/about/mission.html" class="Nav-sublist-link">Mission/Vision</a></li>
+         <li class="Nav-sublist-item"><a href="http://www.usbr.gov/main/about/fact.html" class="Nav-sublist-link">Fact Sheet</a></li>
+         <li class="Nav-sublist-item"><a href="http://www.usbr.gov/newsroom/presskit/bios/biosdetail.cfm?recordid=1" class="Nav-sublist-link">Commissioner</a></li>
+         <li class="Nav-sublist-item"><a href="http://www.usbr.gov/main/offices.html" class="Nav-sublist-link">Addresses/Contacts</a></li>
+         <li class="Nav-sublist-item"><a href="http://www.usbr.gov/main/images/br_org_chart.pdf" class="Nav-sublist-link">Organizational Chart</a></li>
+         <li class="Nav-sublist-item"><a href="http://www.usbr.gov/newsroom/presskit/bios/bios.cfm" class="Nav-sublist-link">Leadership Bios</a></li>
+         <li class="Nav-sublist-item"><a href="http://www.usbr.gov/pmts/hr/" class="Nav-sublist-link">Employment</a></li>
+         <li class="Nav-sublist-item"><a href="http://www.usbr.gov/main/comments.cfm/" class="Nav-sublist-link">Contact</a></li>
+        </ol>
+      </li>
+      <li class="Nav-item">
+        <a class="Nav-item-link" href="#">Recreation &amp; Public Use</a>
+        <ol class="Nav-sublist resetList" aria-label="submenu">
+          <li class="Nav-sublist-item"><a href="http://www.usbr.gov/recreation/" class="Nav-sublist-link">Find Recreation</a></li>
+         <li class="Nav-sublist-item"><a href="http://www.recreation.gov/" class="Nav-sublist-link">Recreation.gov</a></li>
+         <li class="Nav-sublist-item"><a href="http://www.usbr.gov/lands/" class="Nav-sublist-link">Public Use</a></li>
+        </ol>
+      </li>
+      <li class="Nav-item">
+        <a class="Nav-item-link" href="#">News &amp; Multimedia</a>
+        <ol class="Nav-sublist resetList" aria-label="submenu">
+         <li class="Nav-sublist-item"><a href="http://www.usbr.gov/newsroom/newsrelease/" class="Nav-sublist-link">News Releases</a></li>
+         <li class="Nav-sublist-item"><a href="http://www.usbr.gov/newsroom/stories/" class="Nav-sublist-link">News Stories</a></li>
+         <li class="Nav-sublist-item"><a href="http://www.usbr.gov/newsroom/speech/" class="Nav-sublist-link">Speeches</a></li>
+         <li class="Nav-sublist-item"><a href="http://www.usbr.gov/newsroom/testimony/" class="Nav-sublist-link">Congressional Testimony</a></li>
+         <li class="Nav-sublist-item"><a href="http://www.usbr.gov/newsroom/presskit/factsheet/" class="Nav-sublist-link">Fact Sheets</a></li>
+                  <li class="Nav-sublist-item"><a href="http://www.usbr.gov/main/multimedia/index.html#photos" class="Nav-sublist-link">Photos</a></li>
+         <li class="Nav-sublist-item"><a href="http://www.usbr.gov/main/multimedia/index.html#video" class="Nav-sublist-link">Multimedia</a></li>
+         <li class="Nav-sublist-item"><a href="http://www.usbr.gov/main/multimedia/index.html#social" class="Nav-sublist-link">Social Media</a></li>
+        </ol>
+      </li>
+    </ol>
+
+    <!-- Search -->
+    <div class="Header-search" id="recSearch">
+       <form method="get" action=" http://search.usa.gov/search" role="search">
+        <input type="hidden" name="affiliate" value="Reclamation" />
+        <label class="visuallyhidden" for="query">Search</label>
+        <input type="text" name="query" id="query" placeholder="Search" />
+        <button type="submit" id="search">Search</button>
+      </form>
+    </div>
+  </div>
+</div>
